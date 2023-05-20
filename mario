@@ -9,5 +9,13 @@ int main(void)
         height = get_int("Height: ");
     }
     while(height < 1 || height > 8)
-    
+    // left side
+
+    for (int row = 0; row < height; row++)
+    {
+        for (int col = 0; col <= row: col++)
+        {
+            printf("#\n");
+        }
+    }
 }
