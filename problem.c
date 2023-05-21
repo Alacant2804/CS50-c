@@ -12,4 +12,8 @@ int main(void)
     {
         printf("You are too young\n");
     }
+    else if (number >= 20 || number <= 40)
+    {
+        printf("We need you in our team");
+    }
 }
