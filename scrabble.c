@@ -27,6 +27,10 @@ int main(void)
     {
         printf("Player 2 won\n");
     }
+    else 
+    {
+        printf("Tie\n");
+    }
 }
 
 int compute_score(string word)
