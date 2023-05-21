@@ -16,4 +16,8 @@ int main(void)
     {
         printf("We need you in our team");
     }
+    else
+    {
+        printf("You are too old!");
+    }
 }
