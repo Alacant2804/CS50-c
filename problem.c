@@ -21,7 +21,10 @@ int main(void)
         printf("You are too old!");
     }
 
-    int cad
+    int cad;
 
     for (int i = 0; i < number; i++)
+    {
+        printf("mario")
+    }
 }
