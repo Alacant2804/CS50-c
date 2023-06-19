@@ -37,4 +37,10 @@ int compute_score(string word)
 {
     // TODO: Compute and return score for string
     word = get_string("what's your word? ");
+
+    int number;
+    do
+    {
+        number = get_int
+    }
 }
