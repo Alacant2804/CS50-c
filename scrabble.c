@@ -41,6 +41,7 @@ int compute_score(string word)
     int number;
     do
     {
-        number = get_int
+        number = get_int("What's your number? ");
     }
+    while (number < 0)
 }
